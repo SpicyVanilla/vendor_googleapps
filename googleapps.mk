@@ -15,6 +15,24 @@
 # Blobs
 $(call inherit-product, vendor/googleapps/blobs.mk)
 
+# app
+PRODUCT_PACKAGES += \
+    CalculatorGooglePrebuilt \
+    CalendarGooglePrebuilt \
+    FaceLock \
+    GoogleCamera \
+    GoogleContactsSyncAdapter \
+    GoogleExtShared \
+    GoogleNow \
+    GoogleTTS \
+    LatinIMEGooglePrebuilt \
+    NexusWallpapersStubPrebuilt \
+    Photos \
+    PrebuiltBugle \
+    talkback \
+    WallpaperPickerGooglePrebuilt \
+    WallpapersUsTwo
+
 # etc
 PRODUCT_PACKAGES += \
     libfacenet.so \
