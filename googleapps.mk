@@ -42,6 +42,7 @@ PRODUCT_PACKAGES += \
 # framework
 PRODUCT_PACKAGES += \
     com.google.android.camera.experimental2016 \
+    com.google.android.dialer.support \
     com.google.android.maps \
     com.google.android.media.effects
 

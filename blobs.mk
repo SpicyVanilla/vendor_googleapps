@@ -14,10 +14,12 @@
 
 PRODUCT_COPY_FILES += \
     vendor/googleapps/etc/permissions/com.google.android.camera.experimental2016.xml:system/etc/permissions/com.google.android.camera.experimental2016.xml \
+    vendor/googleapps/etc/permissions/com.google.android.dialer.support.xml:system/etc/permissions/com.google.android.dialer.support.xml \
     vendor/googleapps/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
     vendor/googleapps/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml \
     vendor/googleapps/etc/permissions/privapp-permissions-google.xml:system/etc/permissions/privapp-permissions-google.xml \
     vendor/googleapps/etc/preferred-apps/google.xml:system/etc/preferred-apps/google.xml \
+    vendor/googleapps/etc/sysconfig/dialer_experience.xml:system/etc/sysconfig/dialer_experience.xml \
     vendor/googleapps/etc/sysconfig/google.xml:system/etc/sysconfig/google.xml \
     vendor/googleapps/etc/sysconfig/google_build.xml:system/etc/sysconfig/google_build.xml \
     vendor/googleapps/etc/sysconfig/nexus.xml:system/etc/sysconfig/nexus.xml \
