@@ -49,3 +49,30 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGE_OVERLAYS += \
     vendor/googleapps/overlay/
 
+# priv-app
+PRODUCT_PACKAGES += \
+    AndroidPlatformServices \
+    ConfigUpdater \
+    ConnMetrics \
+    GmsCoreSetupPrebuilt \
+    GoogleBackupTransport \
+    GoogleContacts \
+    GoogleDialer \
+    GoogleExtServices \
+    GoogleFeedback \
+    GoogleOneTimeInitializer \
+    GooglePartnerSetup \
+    GoogleServicesFramework \
+    Phonesky \
+    PrebuiltGmsCore \
+    DynamiteLoader.apk \
+    DynamiteModulesA \
+    DynamiteModulesB \
+    DynamiteModulesC \
+    DynamiteModulesD \
+    GoogleCertificates \
+    SetupWizard \
+    TagGoogle \
+    Turbo \
+    Velvet
+
