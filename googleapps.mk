@@ -29,6 +29,7 @@ PRODUCT_PACKAGES += \
     NexusWallpapersStubPrebuilt \
     Photos \
     PrebuiltBugle \
+    PrebuiltDeskClockGoogle \
     talkback \
     WallpaperPickerGooglePrebuilt \
     WallpapersUsTwo
